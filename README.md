@@ -35,14 +35,27 @@ Start a new group and get support from the community around the world. You donâ€
 ## How we built it
 
 Virtual study group app for Latinoamerica makes use of the following software:
+- `Mumbai Polygon Network` enables our application to be a scalable platform with fast transactions. We deployed our app on the Mumbai Network. Contract Address: `0x65BBF87bC0a26ff089A0012c2eAE94AFF2211a5d`
+
+### Polygon Requirements
+In the README please link to a tweet from a teammate explaining why you built #onPolygon at EthBogota.
+We are targeting the LATAM public goods - Refi project(s) track, we created `Virtual Study Group App` and app where students from Latin America come together to prepare for web3 hackathons and learn about crypto along with other students that are studying for the same subject matter. The app can provide them with study material, tools, discussion helps, guides and financial support. This business idea presents a range of challenges but as a business grows we are planning on reaching new cities and scale globally.
+
+### Polygonscan Link
+https://mumbai.polygonscan.com/address/0x65BBF87bC0a26ff089A0012c2eAE94AFF2211a5d
+### Twitter Link
+https://twitter.com/_always0/status/1579076949821251584
+
 
 - `web3auth` enables our application to authenticate users with familiar login flows such as single sign-on with Google and Twitter, eliminating the need for users to directly interface with vulnerable public-private key pairs.
 
 * `SuperFluid` enables stream payment for donations and rewards for our application
 
-* `World Coin` makes sure users create only one Study Group event per person to avoid any scams.
+* `WorldCoin` makes sure users create only one Study Group event per person to avoid any scams.
 
 * `Xmtp` allows donators to chat with organizers and members of the groups.
+
+* `Livepeer`  facilitated the process of adding audio and video for our Virtual Study Groups
 
 * `Ethereum Name Service (ENS)` allows donators to look up Ethereum Name Service and convert them to a wallet addresses.
 
