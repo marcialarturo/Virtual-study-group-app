@@ -80,11 +80,8 @@ npx hardhat run scripts/deploy.js --network mumbai
 - deployedSkaleContract ='0x1aae17D2C4B5ea1b6cf4eeFC0D2f54bc5cD464cf'
 
 ===============
-
-DEMO
-
+### DEMO
 - For the demo use 0x11760DB13aE3Aa5Bca17fC7D62172be2A2Ea9C11
 - superFluid dashboard
   https://app.superfluid.finance/stream/polygon-mumbai/0x11760db13ae3aa5bca17fc7d62172be2a2ea9c11-0x7214859dd1750d31eda889ba44d432f9805ff3f7-0x5d8b4c2554aeb7e86f387b4d6c00ac33499ed01f-0.0
 
-- Valist https://app.valist.io/main-account/pets-found-me
